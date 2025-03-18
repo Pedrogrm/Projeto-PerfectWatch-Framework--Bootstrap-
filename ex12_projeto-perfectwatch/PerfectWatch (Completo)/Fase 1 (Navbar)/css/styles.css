@@ -1,0 +1,23 @@
+/* Define uma fonte padrão para todos os elementos */
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* estilos gerais para o corpo da pagina */
+body {
+    background-color: #252525;
+    color: #FFF;
+}
+
+/* classes para diferentes cores de fundo */
+.primary-bg-color {
+    background-color: #252525;
+}
+
+.destaque {
+    background-color: #0D0D0D;
+}
+
+.secondary-bg-color {
+    background-color: #976DF2;
+}
